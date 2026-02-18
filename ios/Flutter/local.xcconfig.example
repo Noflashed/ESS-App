@@ -1,0 +1,11 @@
+// Copy this file to local.xcconfig (which is gitignored) and fill in your values.
+// local.xcconfig is included by Debug.xcconfig and Release.xcconfig.
+//
+// To find your DEVELOPMENT_TEAM:
+//   1. Open Xcode > Preferences > Accounts
+//   2. Select your Apple ID > View Details
+//   3. Copy the Team ID shown next to your team name
+//   OR open Keychain Access, find your "Apple Development" certificate,
+//   and the 10-character string in parentheses is your team ID.
+//
+DEVELOPMENT_TEAM = XXXXXXXXXX
